@@ -1,0 +1,4 @@
+{
+  "test_spider_loader.py": true, 
+  "test_spider_loader.py::Test_spider_loader::()::test_load": true
+}

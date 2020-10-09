@@ -1,0 +1,18 @@
+{
+  "test_core.py": true, 
+  "test_database.py": true, 
+  "test_database.py::Test_core::()::test_core": true, 
+  "test_database.py::Test_core::()::test_response_pickle": true, 
+  "test_database.py::Test_core::()::test_xpath": true, 
+  "test_database.py::Test_database::()::test_get": true, 
+  "test_database.py::Test_database::()::test_get2": true, 
+  "test_database.py::Test_database::()::test_insert_list": true, 
+  "test_database.py::Test_database::()::test_put": true, 
+  "test_database.py::Test_scheduler::()::test_sched": true, 
+  "test_database.py::Test_spider_base::()::test_get_response": true, 
+  "test_database.py::Test_spider_base::()::test_process_task": true, 
+  "test_misc.py": true, 
+  "test_misc.py::test_import_file": true, 
+  "test_misc.py::test_walk_modules": true, 
+  "test_spider_loader.py": true
+}
