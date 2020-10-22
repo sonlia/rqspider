@@ -1,0 +1,11 @@
+*.log
+*.pyc
+tmp
+tests/.cache
+tests/__pycache__
+*.log
+*.db
+*.json
+*.txt
+*.xls
+*.log
